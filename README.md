@@ -63,4 +63,4 @@ Information on building from source is provided in the [Wiki](https://github.com
 ---
 
 ##### Disclaimer
-Same as [apktool](http://ibotpeaches.github.io/Apktool/), **APK Studio** is neither intended for piracy nor other non-legal uses. It could be used for localizing, adding some features or support for custom platforms, analyzing applications &amp; much more.
+Same as [apktool](https://github.com/TR-TECH-GUIDE/Apktool), **APK Studio** is neither intended for piracy nor other non-legal uses. It could be used for localizing, adding some features or support for custom platforms, analyzing applications &amp; much more.
